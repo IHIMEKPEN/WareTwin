@@ -20,7 +20,7 @@ docs/screenshots/
 docs/layout/layout_preview.png
 
 # editors / OS
-.vscode/
 .idea/
 .DS_Store
 Thumbs.db
+config.bat
